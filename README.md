@@ -1,0 +1,1 @@
+Custom protestant calendar events (2026-2037).  Proton Calendar limits a file to a max of 10 MB and have up to 15,000 events.  But it seemed to have date-bound limits going up to 2040. I didn't include Easter, Christmas, St Patrick's Day because those are found in most US calendars.
