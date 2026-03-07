@@ -33,7 +33,7 @@ Key Jewish feasts and holy days. The following events are included for each year
 | ------------------------------------------ | --------------------------------------------------------------------------------- |
 | **Purim**                                  | Celebrates the deliverance of the Jewish people as recorded in the Book of Esther |
 | **Passover / Feast of Unleavened Bread**   | Commemorates the Exodus from Egypt; seven days of unleavened bread                |
-| **Shavuot (Feast of Weeks / Pentecost)**   | Celebrates the giving of the Torah at Sinai, 50 days after Passover               |
+| **Shavuot (Feast of Weeks)**               | Celebrates the giving of the Torah at Sinai, 50 days after Passover               |
 | **Rosh Hashanah (Feast of Trumpets)**      | The Jewish New Year; begins the ten Days of Awe leading to Yom Kippur             |
 | **Yom Kippur (Day of Atonement)**          | The holiest day of the Jewish year — a day of fasting, prayer, and repentance     |
 | **Sukkot (Feast of Tabernacles / Booths)** | Seven-day harvest festival commemorating the Israelites' wilderness wandering     |

@@ -7,7 +7,7 @@ X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
 UID:purim-2026@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260304
@@ -23,8 +23,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2026@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260524
 END:VEVENT
@@ -63,7 +63,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2027@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270323
@@ -79,8 +79,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2027@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270612
 END:VEVENT
@@ -119,7 +119,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2028@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20280309
 DTEND;VALUE=DATE:20280311
@@ -135,8 +135,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2028@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20280528
 DTEND;VALUE=DATE:20280531
 END:VEVENT
@@ -175,7 +175,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2029@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20290226
 DTEND;VALUE=DATE:20290228
@@ -191,8 +191,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2029@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20290517
 DTEND;VALUE=DATE:20290520
 END:VEVENT
@@ -231,7 +231,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2030@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20300318
 DTEND;VALUE=DATE:20300320
@@ -247,8 +247,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2030@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20300606
 DTEND;VALUE=DATE:20300609
 END:VEVENT
@@ -287,7 +287,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2031@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20310307
 DTEND;VALUE=DATE:20310309
@@ -303,8 +303,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2031@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20310526
 DTEND;VALUE=DATE:20310529
 END:VEVENT
@@ -343,7 +343,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2032@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20320325
 DTEND;VALUE=DATE:20320327
@@ -359,8 +359,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2032@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20320613
 DTEND;VALUE=DATE:20320616
 END:VEVENT
@@ -399,7 +399,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2033@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20330314
 DTEND;VALUE=DATE:20330316
@@ -415,8 +415,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2033@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20330602
 DTEND;VALUE=DATE:20330605
 END:VEVENT
@@ -455,7 +455,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2034@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20340304
 DTEND;VALUE=DATE:20340306
@@ -471,8 +471,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2034@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20340523
 DTEND;VALUE=DATE:20340526
 END:VEVENT
@@ -511,7 +511,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2035@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20350321
 DTEND;VALUE=DATE:20350323
@@ -527,8 +527,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2035@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20350609
 DTEND;VALUE=DATE:20350612
 END:VEVENT
@@ -567,7 +567,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2036@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20360310
 DTEND;VALUE=DATE:20360312
@@ -583,8 +583,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2036@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20360529
 DTEND;VALUE=DATE:20360601
 END:VEVENT
@@ -623,7 +623,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:purim-2037@customcalendar
-SUMMARY:Purim (Book of Esther)
+SUMMARY:Purim
 DESCRIPTION:Celebrates the deliverance of the Jewish people from Haman's plot as recorded in the Book of Esther. Observed with feasting\, gift-giving\, and reading the Megillah.
 DTSTART;VALUE=DATE:20370228
 DTEND;VALUE=DATE:20370302
@@ -639,8 +639,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:shavuot-2037@customcalendar
-SUMMARY:Shavuot (Feast of Weeks / Pentecost)
-DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. Also known as Pentecost — the same feast day when the Holy Spirit came in Acts 2.
+SUMMARY:Shavuot (Feast of Weeks)
+DESCRIPTION:Celebrates the giving of the Torah at Mount Sinai\, occurring 50 days after Passover. One of the three major pilgrimage festivals commanded in the Torah.
 DTSTART;VALUE=DATE:20370519
 DTEND;VALUE=DATE:20370522
 END:VEVENT
