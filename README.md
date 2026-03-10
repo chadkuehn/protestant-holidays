@@ -92,7 +92,7 @@ Widely observed cultural, folk, and secular days. The following events are inclu
 | **Mother's Day**             | Second Sunday of May — honors mothers and maternal figures                              |
 | **Father's Day**             | Third Sunday of June — honors fathers and paternal figures                              |
 | **Halloween**                | October 31 — an evening of costumes, trick-or-treating, and autumn festivities          |
-| **Carnival**                 | January 6 — An annual festival held before Lent known for vibrant celebrations marked with costumes & parades worldwide — Rio de Janeiro, Venice, Trinidad, New Orleans, etc. |
+| **Carnival**                 | January 6 — annual festival held before Lent known for vibrant celebrations with costumes & parades worldwide (i.e., Rio de Janeiro, Venice, Trinidad, New Orleans, etc.) |
 | **Mardi Gras (Fat Tuesday)** | New Orleans celebratoin falling 47 days before Resurrection Sunday (Easter)             |
 | **Black Friday**             | Day after Thanksgiving — unofficial start of the holiday shopping season                |
 | **New Year's Eve**           | December 31 — celebrations marking the end of the calendar year                         |
