@@ -1,0 +1,976 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Chad Kuehn//Honorary Military Calendar//EN
+X-WR-CALNAME:Honorary & Military
+X-WR-TIMEZONE:America/Chicago
+
+BEGIN:VEVENT
+UID:armedforcesday-2026@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2026@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2026@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2026@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2026@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2026@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2026@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2026@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2026@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2026@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2026@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2027@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2027@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2027@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2027@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2027@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2027@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2027@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2027@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20271220
+DTEND;VALUE=DATE:20271221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2027@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2027@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2027@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2028@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20280520
+DTEND;VALUE=DATE:20280521
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2028@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20280614
+DTEND;VALUE=DATE:20280615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2028@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20280606
+DTEND;VALUE=DATE:20280607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2028@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20280614
+DTEND;VALUE=DATE:20280615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2028@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20281013
+DTEND;VALUE=DATE:20281014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2028@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20281110
+DTEND;VALUE=DATE:20281111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2028@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20280918
+DTEND;VALUE=DATE:20280919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2028@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20281220
+DTEND;VALUE=DATE:20281221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2028@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20280911
+DTEND;VALUE=DATE:20280912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2028@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2028@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20281207
+DTEND;VALUE=DATE:20281208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2029@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20290519
+DTEND;VALUE=DATE:20290520
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2029@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20290614
+DTEND;VALUE=DATE:20290615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2029@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20290606
+DTEND;VALUE=DATE:20290607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2029@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20290614
+DTEND;VALUE=DATE:20290615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2029@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20291013
+DTEND;VALUE=DATE:20291014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2029@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20291110
+DTEND;VALUE=DATE:20291111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2029@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20290918
+DTEND;VALUE=DATE:20290919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2029@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20291220
+DTEND;VALUE=DATE:20291221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2029@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20290911
+DTEND;VALUE=DATE:20290912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2029@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20290921
+DTEND;VALUE=DATE:20290922
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2029@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20291207
+DTEND;VALUE=DATE:20291208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2030@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20300518
+DTEND;VALUE=DATE:20300519
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2030@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20300614
+DTEND;VALUE=DATE:20300615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2030@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20300606
+DTEND;VALUE=DATE:20300607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2030@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20300614
+DTEND;VALUE=DATE:20300615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2030@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20301013
+DTEND;VALUE=DATE:20301014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2030@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20301110
+DTEND;VALUE=DATE:20301111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2030@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20300918
+DTEND;VALUE=DATE:20300919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2030@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20301220
+DTEND;VALUE=DATE:20301221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2030@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20300911
+DTEND;VALUE=DATE:20300912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2030@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20300920
+DTEND;VALUE=DATE:20300921
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2030@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20301207
+DTEND;VALUE=DATE:20301208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2031@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20310517
+DTEND;VALUE=DATE:20310518
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2031@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20310614
+DTEND;VALUE=DATE:20310615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2031@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20310606
+DTEND;VALUE=DATE:20310607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2031@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20310614
+DTEND;VALUE=DATE:20310615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2031@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20311013
+DTEND;VALUE=DATE:20311014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2031@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20311110
+DTEND;VALUE=DATE:20311111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2031@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20310918
+DTEND;VALUE=DATE:20310919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2031@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20311220
+DTEND;VALUE=DATE:20311221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2031@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20310911
+DTEND;VALUE=DATE:20310912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2031@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20310919
+DTEND;VALUE=DATE:20310920
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2031@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20311207
+DTEND;VALUE=DATE:20311208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2032@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20320515
+DTEND;VALUE=DATE:20320516
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2032@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20320614
+DTEND;VALUE=DATE:20320615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2032@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20320606
+DTEND;VALUE=DATE:20320607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2032@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20320614
+DTEND;VALUE=DATE:20320615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2032@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20321013
+DTEND;VALUE=DATE:20321014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2032@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20321110
+DTEND;VALUE=DATE:20321111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2032@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20320918
+DTEND;VALUE=DATE:20320919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2032@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20321220
+DTEND;VALUE=DATE:20321221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2032@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20320911
+DTEND;VALUE=DATE:20320912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2032@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20320917
+DTEND;VALUE=DATE:20320918
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2032@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20321207
+DTEND;VALUE=DATE:20321208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2033@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20330521
+DTEND;VALUE=DATE:20330522
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2033@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20330614
+DTEND;VALUE=DATE:20330615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2033@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20330606
+DTEND;VALUE=DATE:20330607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2033@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20330614
+DTEND;VALUE=DATE:20330615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2033@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20331013
+DTEND;VALUE=DATE:20331014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2033@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20331110
+DTEND;VALUE=DATE:20331111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2033@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20330918
+DTEND;VALUE=DATE:20330919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2033@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20331220
+DTEND;VALUE=DATE:20331221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2033@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20330911
+DTEND;VALUE=DATE:20330912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2033@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20330916
+DTEND;VALUE=DATE:20330917
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2033@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20331207
+DTEND;VALUE=DATE:20331208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2034@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20340520
+DTEND;VALUE=DATE:20340521
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2034@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20340614
+DTEND;VALUE=DATE:20340615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2034@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20340606
+DTEND;VALUE=DATE:20340607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2034@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20340614
+DTEND;VALUE=DATE:20340615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2034@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20341013
+DTEND;VALUE=DATE:20341014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2034@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20341110
+DTEND;VALUE=DATE:20341111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2034@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20340918
+DTEND;VALUE=DATE:20340919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2034@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20341220
+DTEND;VALUE=DATE:20341221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2034@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20340911
+DTEND;VALUE=DATE:20340912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2034@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20340915
+DTEND;VALUE=DATE:20340916
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2034@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20341207
+DTEND;VALUE=DATE:20341208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2035@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20350519
+DTEND;VALUE=DATE:20350520
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2035@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20350614
+DTEND;VALUE=DATE:20350615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2035@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20350606
+DTEND;VALUE=DATE:20350607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2035@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20350614
+DTEND;VALUE=DATE:20350615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2035@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20351013
+DTEND;VALUE=DATE:20351014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2035@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20351110
+DTEND;VALUE=DATE:20351111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2035@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20350918
+DTEND;VALUE=DATE:20350919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2035@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20351220
+DTEND;VALUE=DATE:20351221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2035@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20350911
+DTEND;VALUE=DATE:20350912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2035@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20350921
+DTEND;VALUE=DATE:20350922
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2035@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20351207
+DTEND;VALUE=DATE:20351208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:armedforcesday-2036@honorary
+SUMMARY:Armed Forces Day
+DESCRIPTION:Observed on the third Saturday of May\, Armed Forces Day honors all currently serving members of the U.S. military — Army\, Navy\, Marine Corps\, Air Force\, Space Force\, and Coast Guard. Established in 1949 after the unification of the military branches.
+DTSTART;VALUE=DATE:20360517
+DTEND;VALUE=DATE:20360518
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flagday-2036@honorary
+SUMMARY:Flag Day
+DESCRIPTION:June 14 commemorates the adoption of the U.S. flag on June 14\, 1777\, by the Second Continental Congress. Americans are encouraged to display the flag in honor of the nation's symbol of freedom and unity.
+DTSTART;VALUE=DATE:20360614
+DTEND;VALUE=DATE:20360615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dday-2036@honorary
+SUMMARY:D-Day Remembrance
+DESCRIPTION:June 6 marks the anniversary of the D-Day landings on June 6\, 1944 — the largest seaborne invasion in history — when Allied forces stormed the beaches of Normandy\, France\, in Operation Overlord. The operation turned the tide of World War II in Europe.
+DTSTART;VALUE=DATE:20360606
+DTEND;VALUE=DATE:20360607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:army-birthday-2036@honorary
+SUMMARY:U.S. Army Birthday
+DESCRIPTION:June 14 marks the founding of the United States Army by the Continental Congress on June 14\, 1775 — the oldest and largest branch of the U.S. Armed Forces. The Army celebrates its birthday with ceremonies\, traditions\, and recognition of service.
+DTSTART;VALUE=DATE:20360614
+DTEND;VALUE=DATE:20360615
+END:VEVENT
+
+BEGIN:VEVENT
+UID:navy-birthday-2036@honorary
+SUMMARY:U.S. Navy Birthday
+DESCRIPTION:October 13 marks the founding of the Continental Navy on October 13\, 1775\, when the Second Continental Congress authorized the construction of the first naval vessels. The U.S. Navy celebrates its birthday with ceremonies and fleet week events.
+DTSTART;VALUE=DATE:20361013
+DTEND;VALUE=DATE:20361014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marines-birthday-2036@honorary
+SUMMARY:U.S. Marine Corps Birthday
+DESCRIPTION:November 10 marks the establishment of the United States Marine Corps on November 10\, 1775\, at Tun Tavern in Philadelphia. Marines worldwide celebrate with the traditional reading of the Commandant's birthday message and a cake-cutting ceremony.
+DTSTART;VALUE=DATE:20361110
+DTEND;VALUE=DATE:20361111
+END:VEVENT
+
+BEGIN:VEVENT
+UID:airforce-birthday-2036@honorary
+SUMMARY:U.S. Air Force Birthday
+DESCRIPTION:September 18 marks the establishment of the United States Air Force as an independent military branch on September 18\, 1947\, under the National Security Act. Originally part of the Army\, the Air Force became the world's most powerful air service.
+DTSTART;VALUE=DATE:20360918
+DTEND;VALUE=DATE:20360919
+END:VEVENT
+
+BEGIN:VEVENT
+UID:spaceforce-birthday-2036@honorary
+SUMMARY:U.S. Space Force Birthday
+DESCRIPTION:December 20 marks the establishment of the United States Space Force on December 20\, 2019\, when President Trump signed the National Defense Authorization Act. The Space Force is the newest and sixth branch of the U.S. Armed Forces\, responsible for space operations.
+DTSTART;VALUE=DATE:20361220
+DTEND;VALUE=DATE:20361221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:patriotday-2036@honorary
+SUMMARY:Patriot Day
+DESCRIPTION:September 11 is designated as Patriot Day in remembrance of the 2\,977 people killed in the terrorist attacks on September 11\, 2001. Flags are flown at half-staff and moments of silence are observed nationwide at the times the attacks occurred.
+DTSTART;VALUE=DATE:20360911
+DTEND;VALUE=DATE:20360912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pow-mia-day-2036@honorary
+SUMMARY:National POW/MIA Recognition Day
+DESCRIPTION:Observed on the third Friday of September\, National POW/MIA Recognition Day honors American prisoners of war and those missing in action from all conflicts. The black POW/MIA flag is flown alongside the U.S. flag at federal buildings\, military installations\, and war memorials.
+DTSTART;VALUE=DATE:20360919
+DTEND;VALUE=DATE:20360920
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pearl-harbor-day-2036@honorary
+SUMMARY:National Pearl Harbor Remembrance Day
+DESCRIPTION:December 7 marks the anniversary of the Japanese attack on Pearl Harbor\, Hawaii\, on December 7\, 1941 — 'a date which will live in infamy'\, in the words of President Roosevelt. The attack killed 2\,403 Americans and brought the United States into World War II.
+DTSTART;VALUE=DATE:20361207
+DTEND;VALUE=DATE:20361208
+END:VEVENT
+
+END:VCALENDAR

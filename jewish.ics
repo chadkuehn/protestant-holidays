@@ -1,0 +1,624 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Chad Kuehn//Jewish Curated Calendar//EN
+X-WR-CALNAME:Jewish Calendar
+X-WR-TIMEZONE:America/Chicago
+
+BEGIN:VEVENT
+UID:purim-2026@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2026@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2026@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2026@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2026@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2026@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2026@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2027@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2027@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2027@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2027@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2027@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2027@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2027@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271205
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2028@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20280313
+DTEND;VALUE=DATE:20280314
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2028@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2028@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20280529
+DTEND;VALUE=DATE:20280530
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2028@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20280920
+DTEND;VALUE=DATE:20280921
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2028@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20280929
+DTEND;VALUE=DATE:20280930
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2028@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20281004
+DTEND;VALUE=DATE:20281005
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2028@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20281222
+DTEND;VALUE=DATE:20281223
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2029@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20290301
+DTEND;VALUE=DATE:20290302
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2029@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20290329
+DTEND;VALUE=DATE:20290330
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2029@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20290517
+DTEND;VALUE=DATE:20290518
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2029@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20290908
+DTEND;VALUE=DATE:20290909
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2029@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2029@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2029@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20291211
+DTEND;VALUE=DATE:20291212
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2030@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20300321
+DTEND;VALUE=DATE:20300322
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2030@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20300417
+DTEND;VALUE=DATE:20300418
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2030@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20300606
+DTEND;VALUE=DATE:20300607
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2030@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20300927
+DTEND;VALUE=DATE:20300928
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2030@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20301006
+DTEND;VALUE=DATE:20301007
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2030@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20301011
+DTEND;VALUE=DATE:20301012
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2030@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20301130
+DTEND;VALUE=DATE:20301201
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2031@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20310311
+DTEND;VALUE=DATE:20310312
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2031@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20310407
+DTEND;VALUE=DATE:20310408
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2031@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20310527
+DTEND;VALUE=DATE:20310528
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2031@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20310917
+DTEND;VALUE=DATE:20310918
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2031@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20310926
+DTEND;VALUE=DATE:20310927
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2031@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20311001
+DTEND;VALUE=DATE:20311002
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2031@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20311219
+DTEND;VALUE=DATE:20311220
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2032@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20320228
+DTEND;VALUE=DATE:20320229
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2032@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20320326
+DTEND;VALUE=DATE:20320327
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2032@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20320514
+DTEND;VALUE=DATE:20320515
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2032@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20320905
+DTEND;VALUE=DATE:20320906
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2032@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20320914
+DTEND;VALUE=DATE:20320915
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2032@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20320919
+DTEND;VALUE=DATE:20320920
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2032@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20321207
+DTEND;VALUE=DATE:20321208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2033@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20330317
+DTEND;VALUE=DATE:20330318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2033@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20330414
+DTEND;VALUE=DATE:20330415
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2033@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20330602
+DTEND;VALUE=DATE:20330603
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2033@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20330924
+DTEND;VALUE=DATE:20330925
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2033@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20331003
+DTEND;VALUE=DATE:20331004
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2033@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20331008
+DTEND;VALUE=DATE:20331009
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2033@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20331226
+DTEND;VALUE=DATE:20331227
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2034@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20340307
+DTEND;VALUE=DATE:20340308
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2034@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20340403
+DTEND;VALUE=DATE:20340404
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2034@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20340523
+DTEND;VALUE=DATE:20340524
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2034@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20340913
+DTEND;VALUE=DATE:20340914
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2034@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20340922
+DTEND;VALUE=DATE:20340923
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2034@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20340927
+DTEND;VALUE=DATE:20340928
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2034@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20341215
+DTEND;VALUE=DATE:20341216
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2035@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20350225
+DTEND;VALUE=DATE:20350226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2035@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20350324
+DTEND;VALUE=DATE:20350325
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2035@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20350512
+DTEND;VALUE=DATE:20350513
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2035@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20351003
+DTEND;VALUE=DATE:20351004
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2035@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20351012
+DTEND;VALUE=DATE:20351013
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2035@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20351017
+DTEND;VALUE=DATE:20351018
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2035@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20351205
+DTEND;VALUE=DATE:20351206
+END:VEVENT
+
+BEGIN:VEVENT
+UID:purim-2036@jewish
+SUMMARY:Purim begins 🌇
+DESCRIPTION:Purim (the Feast of Lots) begins at sundown on 14 Adar\, commemorating the salvation of the Jewish people in ancient Persia as recorded in the Book of Esther. The holiday lasts 1 Jewish day (1 day on the Western calendar)\, celebrated with reading the Megillah\, giving gifts of food (mishloach manot)\, charitable giving\, costumes\, and festive meals. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20360313
+DTEND;VALUE=DATE:20360314
+END:VEVENT
+
+BEGIN:VEVENT
+UID:passover-2036@jewish
+SUMMARY:Passover begins 🌇
+DESCRIPTION:Passover (Pesach\, the Feast of Unleavened Bread) begins at sundown on 15 Nisan\, commemorating the Exodus of the Israelites from slavery in Egypt as recounted in the Book of Exodus. The holiday lasts 8 days outside Israel (7 in Israel)\, beginning with the Passover Seder — a ritual meal retelling the Exodus story. Chametz (leavened bread) is forbidden throughout. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20360411
+DTEND;VALUE=DATE:20360412
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shavuot-2036@jewish
+SUMMARY:Shavuot begins 🌇
+DESCRIPTION:Shavuot (the Feast of Weeks\, also known as Pentecost) begins at sundown on 6 Sivan\, occurring 50 days after the start of Passover. It celebrates the giving of the Torah to Moses at Mount Sinai and the wheat harvest. The holiday lasts 2 days outside Israel (1 in Israel)\, observed with all-night Torah study (Tikkun Leil Shavuot) and reading the Book of Ruth. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20360530
+DTEND;VALUE=DATE:20360531
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-2036@jewish
+SUMMARY:Rosh Hashanah begins 🌇
+DESCRIPTION:Rosh Hashanah (the Feast of Trumpets\, the Jewish New Year) begins at sundown on 1 Tishrei. The shofar (ram's horn) is blown\, symbolizing a call to repentance and awakening. The holiday lasts 2 Jewish days (2 days on the Western calendar)\, beginning the Ten Days of Awe that conclude with Yom Kippur. Traditions include eating apples and honey for a sweet new year. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20360921
+DTEND;VALUE=DATE:20360922
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yom-kippur-2036@jewish
+SUMMARY:Yom Kippur begins 🌇
+DESCRIPTION:Yom Kippur (the Day of Atonement) begins at sundown on 10 Tishrei\, the holiest day in Judaism. A 25-hour complete fast is observed from sundown to nightfall the following day (1 Jewish day\, spanning 2 Western calendar days). The day is spent in prayer\, confession\, and seeking forgiveness from God and fellow human beings. Synagogue services include the Kol Nidre prayer on the eve and the concluding Ne'ilah service. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20360930
+DTEND;VALUE=DATE:20361001
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sukkot-2036@jewish
+SUMMARY:Sukkot begins 🌇
+DESCRIPTION:Sukkot (the Feast of Tabernacles\, also called the Feast of Booths) begins at sundown on 15 Tishrei\, five days after Yom Kippur. The holiday lasts 7 Jewish days (7 days on the Western calendar)\, during which Jews dwell or eat in a sukkah — a temporary outdoor booth — commemorating the 40 years the Israelites wandered in the desert and giving thanks for the fall harvest. The four species (lulav and etrog) are waved in the synagogue. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20361005
+DTEND;VALUE=DATE:20361006
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hanukkah-2036@jewish
+SUMMARY:Hanukkah begins 🌇
+DESCRIPTION:Hanukkah (the Feast of Dedication\, also called the Festival of Lights) begins at sundown on 25 Kislev\, commemorating the rededication of the Holy Temple in Jerusalem after its desecration by Antiochus IV and the miracle of the oil that burned for 8 days. The holiday lasts 8 Jewish days (8 days on the Western calendar)\, celebrated by lighting the Hanukkiah (9-branched menorah)\, playing dreidel\, and eating oil-fried foods like latkes and sufganiyot. The 🌇 emoji is a reminder this holiday begins at sundown.
+DTSTART;VALUE=DATE:20361223
+DTEND;VALUE=DATE:20361224
+END:VEVENT
+
+END:VCALENDAR

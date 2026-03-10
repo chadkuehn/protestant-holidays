@@ -1,0 +1,536 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Chad Kuehn//Catholic Curated Calendar//EN
+X-WR-CALNAME:Catholic Calendar
+X-WR-TIMEZONE:America/Chicago
+
+BEGIN:VEVENT
+UID:ashwednesday-2026@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2026@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2026@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2026@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2026@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2026@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2027@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2027@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2027@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2027@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2027@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2027@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2028@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2028@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2028@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2028@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20280214
+DTEND;VALUE=DATE:20280215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2028@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20280317
+DTEND;VALUE=DATE:20280318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2028@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2029@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2029@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20291101
+DTEND;VALUE=DATE:20291102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2029@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20291102
+DTEND;VALUE=DATE:20291103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2029@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2029@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20290317
+DTEND;VALUE=DATE:20290318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2029@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2030@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20300306
+DTEND;VALUE=DATE:20300307
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2030@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20301101
+DTEND;VALUE=DATE:20301102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2030@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20301102
+DTEND;VALUE=DATE:20301103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2030@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20300214
+DTEND;VALUE=DATE:20300215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2030@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20300317
+DTEND;VALUE=DATE:20300318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2030@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20300305
+DTEND;VALUE=DATE:20300306
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2031@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20310226
+DTEND;VALUE=DATE:20310227
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2031@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20311101
+DTEND;VALUE=DATE:20311102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2031@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20311102
+DTEND;VALUE=DATE:20311103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2031@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20310214
+DTEND;VALUE=DATE:20310215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2031@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2031@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20310225
+DTEND;VALUE=DATE:20310226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2032@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20320211
+DTEND;VALUE=DATE:20320212
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2032@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20321101
+DTEND;VALUE=DATE:20321102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2032@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20321102
+DTEND;VALUE=DATE:20321103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2032@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20320214
+DTEND;VALUE=DATE:20320215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2032@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20320317
+DTEND;VALUE=DATE:20320318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2032@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20320210
+DTEND;VALUE=DATE:20320211
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2033@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20330302
+DTEND;VALUE=DATE:20330303
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2033@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20331101
+DTEND;VALUE=DATE:20331102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2033@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20331102
+DTEND;VALUE=DATE:20331103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2033@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20330214
+DTEND;VALUE=DATE:20330215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2033@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20330317
+DTEND;VALUE=DATE:20330318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2033@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20330301
+DTEND;VALUE=DATE:20330302
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2034@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20340222
+DTEND;VALUE=DATE:20340223
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2034@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20341101
+DTEND;VALUE=DATE:20341102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2034@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20341102
+DTEND;VALUE=DATE:20341103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2034@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20340214
+DTEND;VALUE=DATE:20340215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2034@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20340317
+DTEND;VALUE=DATE:20340318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2034@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20340221
+DTEND;VALUE=DATE:20340222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2035@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20350207
+DTEND;VALUE=DATE:20350208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2035@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20351101
+DTEND;VALUE=DATE:20351102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2035@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20351102
+DTEND;VALUE=DATE:20351103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2035@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20350214
+DTEND;VALUE=DATE:20350215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2035@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20350317
+DTEND;VALUE=DATE:20350318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2035@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20350206
+DTEND;VALUE=DATE:20350207
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ashwednesday-2036@catholic
+SUMMARY:Ash Wednesday
+DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling the words: 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20360227
+DTEND;VALUE=DATE:20360228
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsaints-2036@catholic
+SUMMARY:All Saints' Day
+DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
+DTSTART;VALUE=DATE:20361101
+DTEND;VALUE=DATE:20361102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:allsouls-2036@catholic
+SUMMARY:All Souls' Day
+DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics are encouraged to offer prayers\, Masses\, and acts of charity for the souls of the deceased.
+DTSTART;VALUE=DATE:20361102
+DTEND;VALUE=DATE:20361103
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentines-cath-2036@catholic
+SUMMARY:Valentine's Day
+DESCRIPTION:February 14 is the feast day of Saint Valentine\, a Roman martyr. While widely observed as a secular day of love and affection\, the Catholic Church honors Saint Valentine as a martyr whose feast has become associated with romantic love since the Middle Ages.
+DTSTART;VALUE=DATE:20360214
+DTEND;VALUE=DATE:20360215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricks-cath-2036@catholic
+SUMMARY:St. Patrick's Day
+DESCRIPTION:March 17 is the feast day of Saint Patrick\, the patron saint and national apostle of Ireland\, who is credited with bringing Christianity to Ireland in the 5th century. Though widely celebrated as a cultural holiday\, it remains a day of religious observance in the Catholic tradition.
+DTSTART;VALUE=DATE:20360317
+DTEND;VALUE=DATE:20360318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-cath-2036@catholic
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — 'Fat Tuesday' in French — is the final day of Carnival\, the festive season before Lent begins on Ash Wednesday. Catholics traditionally used this day to consume rich foods before the fasting and abstinence of the Lenten season.
+DTSTART;VALUE=DATE:20360226
+DTEND;VALUE=DATE:20360227
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,1416 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Chad Kuehn//Cultural Calendar//EN
+X-WR-CALNAME:Cultural Observances
+X-WR-TIMEZONE:America/Chicago
+
+BEGIN:VEVENT
+UID:carnivalbegins-2026@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2026@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2026 is the Year of the Fire Horse. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2026@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2026@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2026@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2026@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2026@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2026@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2026@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2026@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2026@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2026@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2026@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2026@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2026@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2026@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2027@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2027@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2027 is the Year of the Fire Goat. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2027@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2027@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2027@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2027@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2027@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2027@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2027@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2027@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2027@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2027@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2027@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2027@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2027@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2027@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2028@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2028@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2028 is the Year of the Earth Monkey. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2028@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20280202
+DTEND;VALUE=DATE:20280203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2028@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20280214
+DTEND;VALUE=DATE:20280215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2028@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2028@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20280317
+DTEND;VALUE=DATE:20280318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2028@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20280401
+DTEND;VALUE=DATE:20280402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2028@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20280422
+DTEND;VALUE=DATE:20280423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2028@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20280428
+DTEND;VALUE=DATE:20280429
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2028@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2028@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2028@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20280514
+DTEND;VALUE=DATE:20280515
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2028@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20280618
+DTEND;VALUE=DATE:20280619
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2028@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2028@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20281124
+DTEND;VALUE=DATE:20281125
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2028@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2029@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20290106
+DTEND;VALUE=DATE:20290107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2029@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2029 is the Year of the Earth Rooster. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2029@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20290202
+DTEND;VALUE=DATE:20290203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2029@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2029@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2029@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20290317
+DTEND;VALUE=DATE:20290318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2029@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2029@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20290422
+DTEND;VALUE=DATE:20290423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2029@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20290427
+DTEND;VALUE=DATE:20290428
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2029@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2029@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20290505
+DTEND;VALUE=DATE:20290506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2029@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20290513
+DTEND;VALUE=DATE:20290514
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2029@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20290617
+DTEND;VALUE=DATE:20290618
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2029@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2029@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20291123
+DTEND;VALUE=DATE:20291124
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2029@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2030@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20300106
+DTEND;VALUE=DATE:20300107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2030@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2030 is the Year of the Metal Dog. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20300203
+DTEND;VALUE=DATE:20300204
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2030@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2030@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20300214
+DTEND;VALUE=DATE:20300215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2030@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20300305
+DTEND;VALUE=DATE:20300306
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2030@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20300317
+DTEND;VALUE=DATE:20300318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2030@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20300401
+DTEND;VALUE=DATE:20300402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2030@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2030@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20300426
+DTEND;VALUE=DATE:20300427
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2030@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2030@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20300505
+DTEND;VALUE=DATE:20300506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2030@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20300512
+DTEND;VALUE=DATE:20300513
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2030@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20300616
+DTEND;VALUE=DATE:20300617
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2030@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2030@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20301129
+DTEND;VALUE=DATE:20301130
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2030@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2031@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20310106
+DTEND;VALUE=DATE:20310107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2031@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2031 is the Year of the Metal Pig. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20310123
+DTEND;VALUE=DATE:20310124
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2031@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20310202
+DTEND;VALUE=DATE:20310203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2031@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20310214
+DTEND;VALUE=DATE:20310215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2031@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20310225
+DTEND;VALUE=DATE:20310226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2031@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2031@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20310401
+DTEND;VALUE=DATE:20310402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2031@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20310422
+DTEND;VALUE=DATE:20310423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2031@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20310425
+DTEND;VALUE=DATE:20310426
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2031@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20310501
+DTEND;VALUE=DATE:20310502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2031@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20310505
+DTEND;VALUE=DATE:20310506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2031@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20310511
+DTEND;VALUE=DATE:20310512
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2031@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20310615
+DTEND;VALUE=DATE:20310616
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2031@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2031@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20311128
+DTEND;VALUE=DATE:20311129
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2031@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2032@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20320106
+DTEND;VALUE=DATE:20320107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2032@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2032 is the Year of the Water Rat. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20320211
+DTEND;VALUE=DATE:20320212
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2032@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20320202
+DTEND;VALUE=DATE:20320203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2032@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20320214
+DTEND;VALUE=DATE:20320215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2032@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20320210
+DTEND;VALUE=DATE:20320211
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2032@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20320317
+DTEND;VALUE=DATE:20320318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2032@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20320401
+DTEND;VALUE=DATE:20320402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2032@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20320422
+DTEND;VALUE=DATE:20320423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2032@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2032@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20320501
+DTEND;VALUE=DATE:20320502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2032@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20320505
+DTEND;VALUE=DATE:20320506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2032@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20320509
+DTEND;VALUE=DATE:20320510
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2032@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20320620
+DTEND;VALUE=DATE:20320621
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2032@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2032@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20321126
+DTEND;VALUE=DATE:20321127
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2032@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2033@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20330106
+DTEND;VALUE=DATE:20330107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2033@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2033 is the Year of the Water Ox. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20330131
+DTEND;VALUE=DATE:20330201
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2033@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20330202
+DTEND;VALUE=DATE:20330203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2033@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20330214
+DTEND;VALUE=DATE:20330215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2033@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20330301
+DTEND;VALUE=DATE:20330302
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2033@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20330317
+DTEND;VALUE=DATE:20330318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2033@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20330401
+DTEND;VALUE=DATE:20330402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2033@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20330422
+DTEND;VALUE=DATE:20330423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2033@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20330429
+DTEND;VALUE=DATE:20330430
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2033@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20330501
+DTEND;VALUE=DATE:20330502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2033@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20330505
+DTEND;VALUE=DATE:20330506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2033@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20330508
+DTEND;VALUE=DATE:20330509
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2033@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20330619
+DTEND;VALUE=DATE:20330620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2033@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20331031
+DTEND;VALUE=DATE:20331101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2033@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20331125
+DTEND;VALUE=DATE:20331126
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2033@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20331231
+DTEND;VALUE=DATE:20340101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2034@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20340106
+DTEND;VALUE=DATE:20340107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2034@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2034 is the Year of the Wood Tiger. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20340219
+DTEND;VALUE=DATE:20340220
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2034@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20340202
+DTEND;VALUE=DATE:20340203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2034@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20340214
+DTEND;VALUE=DATE:20340215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2034@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20340221
+DTEND;VALUE=DATE:20340222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2034@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20340317
+DTEND;VALUE=DATE:20340318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2034@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20340401
+DTEND;VALUE=DATE:20340402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2034@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20340422
+DTEND;VALUE=DATE:20340423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2034@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20340428
+DTEND;VALUE=DATE:20340429
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2034@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20340501
+DTEND;VALUE=DATE:20340502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2034@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20340505
+DTEND;VALUE=DATE:20340506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2034@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20340514
+DTEND;VALUE=DATE:20340515
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2034@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20340618
+DTEND;VALUE=DATE:20340619
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2034@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20341031
+DTEND;VALUE=DATE:20341101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2034@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20341124
+DTEND;VALUE=DATE:20341125
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2034@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20341231
+DTEND;VALUE=DATE:20350101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2035@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20350106
+DTEND;VALUE=DATE:20350107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2035@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2035 is the Year of the Wood Rabbit. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20350208
+DTEND;VALUE=DATE:20350209
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2035@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20350202
+DTEND;VALUE=DATE:20350203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2035@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20350214
+DTEND;VALUE=DATE:20350215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2035@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20350206
+DTEND;VALUE=DATE:20350207
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2035@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20350317
+DTEND;VALUE=DATE:20350318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2035@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20350401
+DTEND;VALUE=DATE:20350402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2035@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20350422
+DTEND;VALUE=DATE:20350423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2035@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20350427
+DTEND;VALUE=DATE:20350428
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2035@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20350501
+DTEND;VALUE=DATE:20350502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2035@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20350505
+DTEND;VALUE=DATE:20350506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2035@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20350513
+DTEND;VALUE=DATE:20350514
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2035@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20350617
+DTEND;VALUE=DATE:20350618
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2035@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20351031
+DTEND;VALUE=DATE:20351101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2035@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20351123
+DTEND;VALUE=DATE:20351124
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2035@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:carnivalbegins-2036@cultural
+SUMMARY:Carnival Season Begins
+DESCRIPTION:Carnival season traditionally begins on Epiphany (January 6\, Three Kings Day) and runs through Mardi Gras. A festive period marked by parades\, masquerades\, and celebrations — especially vibrant in New Orleans\, Rio de Janeiro\, and Venice.
+DTSTART;VALUE=DATE:20360106
+DTEND;VALUE=DATE:20360107
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chineseny-2036@cultural
+SUMMARY:Chinese New Year
+DESCRIPTION:The Lunar New Year\, celebrated on the first day of the first month of the Chinese lunisolar calendar. 2036 is the Year of the Fire Dragon. A 15-day celebration featuring family reunions\, feasts\, fireworks\, and traditional customs for good luck and prosperity.
+DTSTART;VALUE=DATE:20360128
+DTEND;VALUE=DATE:20360129
+END:VEVENT
+
+BEGIN:VEVENT
+UID:groundhogday-2036@cultural
+SUMMARY:Groundhog Day
+DESCRIPTION:An American folk tradition on February 2 centered on Punxsutawney Phil\, a groundhog in Pennsylvania. If Phil sees his shadow\, legend says six more weeks of winter\; if not\, an early spring is expected.
+DTSTART;VALUE=DATE:20360202
+DTEND;VALUE=DATE:20360203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valentinesday-2036@cultural
+SUMMARY:Valentine's Day
+DESCRIPTION:Celebrated on February 14\, Valentine's Day is a cultural holiday honoring love and affection. Traditions include exchanging cards\, flowers\, chocolates\, and gifts with romantic partners\, friends\, and family.
+DTSTART;VALUE=DATE:20360214
+DTEND;VALUE=DATE:20360215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mardigras-2036@cultural
+SUMMARY:Mardi Gras (Fat Tuesday)
+DESCRIPTION:Mardi Gras — French for 'Fat Tuesday' — is the last day of Carnival season\, falling 47 days before Easter. Celebrated with elaborate parades\, masquerade balls\, and feasting before the Lenten season of fasting begins on Ash Wednesday.
+DTSTART;VALUE=DATE:20360226
+DTEND;VALUE=DATE:20360227
+END:VEVENT
+
+BEGIN:VEVENT
+UID:stpatricksday-2036@cultural
+SUMMARY:St. Patrick's Day
+DESCRIPTION:Celebrated on March 17\, St. Patrick's Day honors the patron saint of Ireland. Widely observed as a cultural celebration of Irish heritage with parades\, green attire\, and festivities\, particularly in cities with large Irish-American communities.
+DTSTART;VALUE=DATE:20360317
+DTEND;VALUE=DATE:20360318
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aprilfools-2036@cultural
+SUMMARY:April Fool's Day
+DESCRIPTION:April 1 is a lighthearted day of pranks\, jokes\, and hoaxes. Though not an official holiday\, the tradition of fooling friends and family is observed across many cultures worldwide.
+DTSTART;VALUE=DATE:20360401
+DTEND;VALUE=DATE:20360402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:earthday-2036@cultural
+SUMMARY:Earth Day
+DESCRIPTION:Observed annually on April 22\, Earth Day is an international event dedicated to raising awareness about environmental protection. First celebrated in 1970\, it now mobilizes more than a billion people worldwide around environmental causes.
+DTSTART;VALUE=DATE:20360422
+DTEND;VALUE=DATE:20360423
+END:VEVENT
+
+BEGIN:VEVENT
+UID:arborday-2036@cultural
+SUMMARY:Arbor Day
+DESCRIPTION:Observed on the last Friday of April\, Arbor Day is a national holiday encouraging the planting and care of trees. Founded in Nebraska in 1872 by J. Sterling Morton\, it is now celebrated in many countries around the world.
+DTSTART;VALUE=DATE:20360425
+DTEND;VALUE=DATE:20360426
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mayday-2036@cultural
+SUMMARY:May Day
+DESCRIPTION:May 1 is celebrated worldwide as a spring festival and International Workers' Day. In many countries it is an official labor holiday\; in the U.S. it carries folk traditions of maypoles and seasonal renewal.
+DTSTART;VALUE=DATE:20360501
+DTEND;VALUE=DATE:20360502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cincodemayo-2036@cultural
+SUMMARY:Cinco de Mayo
+DESCRIPTION:Observed on May 5\, Cinco de Mayo commemorates the Mexican Army's victory over French forces at the Battle of Puebla in 1862. In the United States it has grown into a broad celebration of Mexican culture and heritage.
+DTSTART;VALUE=DATE:20360505
+DTEND;VALUE=DATE:20360506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mothersday-2036@cultural
+SUMMARY:Mother's Day
+DESCRIPTION:Celebrated on the second Sunday of May\, Mother's Day honors mothers and maternal figures. Established as a national holiday in 1914\, it is marked with flowers\, cards\, gifts\, and family gatherings.
+DTSTART;VALUE=DATE:20360511
+DTEND;VALUE=DATE:20360512
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fathersday-2036@cultural
+SUMMARY:Father's Day
+DESCRIPTION:Celebrated on the third Sunday of June\, Father's Day honors fathers and paternal figures. First recognized nationally in the early 20th century\, it is marked with gifts\, cards\, and family gatherings.
+DTSTART;VALUE=DATE:20360615
+DTEND;VALUE=DATE:20360616
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-2036@cultural
+SUMMARY:Halloween
+DESCRIPTION:Observed on October 31\, Halloween is a cultural holiday rooted in the ancient Celtic festival of Samhain. Modern traditions include costumes\, trick-or-treating\, carving jack-o'-lanterns\, and haunted houses.
+DTSTART;VALUE=DATE:20361031
+DTEND;VALUE=DATE:20361101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blackfriday-2036@cultural
+SUMMARY:Black Friday
+DESCRIPTION:The day after Thanksgiving\, Black Friday has become one of the busiest retail shopping days of the year in the United States. Named for the tradition of retailers moving from financial losses ('in the red') to profits ('in the black') during the holiday shopping season.
+DTSTART;VALUE=DATE:20361128
+DTEND;VALUE=DATE:20361129
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyearseve-2036@cultural
+SUMMARY:New Year's Eve
+DESCRIPTION:December 31 marks the last day of the Gregorian calendar year. Celebrated worldwide with countdowns\, fireworks\, parties\, and traditions to welcome the new year at midnight.
+DTSTART;VALUE=DATE:20361231
+DTEND;VALUE=DATE:20370101
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,976 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Chad Kuehn//Federal Holidays//EN
+X-WR-CALNAME:Federal Holidays
+X-WR-TIMEZONE:America/Chicago
+
+BEGIN:VEVENT
+UID:newyears-2026@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2026@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2026@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2026@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2026@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2026@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2026@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2026@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2026@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2026@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2026@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2027@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2027@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2027@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2027@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2027@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2027@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2027@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2027@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2027@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2027@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2027@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2028@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2028@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2028@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20280221
+DTEND;VALUE=DATE:20280222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2028@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20280529
+DTEND;VALUE=DATE:20280530
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2028@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20280619
+DTEND;VALUE=DATE:20280620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2028@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20280704
+DTEND;VALUE=DATE:20280705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2028@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20280904
+DTEND;VALUE=DATE:20280905
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2028@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2028@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20281111
+DTEND;VALUE=DATE:20281112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2028@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20281123
+DTEND;VALUE=DATE:20281124
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2028@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2029@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2029@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2029@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20290219
+DTEND;VALUE=DATE:20290220
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2029@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20290528
+DTEND;VALUE=DATE:20290529
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2029@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20290619
+DTEND;VALUE=DATE:20290620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2029@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20290704
+DTEND;VALUE=DATE:20290705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2029@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20290903
+DTEND;VALUE=DATE:20290904
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2029@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2029@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20291111
+DTEND;VALUE=DATE:20291112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2029@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20291122
+DTEND;VALUE=DATE:20291123
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2029@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2030@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2030@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20300121
+DTEND;VALUE=DATE:20300122
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2030@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20300218
+DTEND;VALUE=DATE:20300219
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2030@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20300527
+DTEND;VALUE=DATE:20300528
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2030@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20300619
+DTEND;VALUE=DATE:20300620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2030@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20300704
+DTEND;VALUE=DATE:20300705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2030@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2030@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20301014
+DTEND;VALUE=DATE:20301015
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2030@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2030@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20301128
+DTEND;VALUE=DATE:20301129
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2030@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2031@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2031@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20310120
+DTEND;VALUE=DATE:20310121
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2031@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20310217
+DTEND;VALUE=DATE:20310218
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2031@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20310526
+DTEND;VALUE=DATE:20310527
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2031@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20310619
+DTEND;VALUE=DATE:20310620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2031@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20310704
+DTEND;VALUE=DATE:20310705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2031@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2031@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20311013
+DTEND;VALUE=DATE:20311014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2031@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20311111
+DTEND;VALUE=DATE:20311112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2031@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20311127
+DTEND;VALUE=DATE:20311128
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2031@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2032@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20320101
+DTEND;VALUE=DATE:20320102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2032@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20320119
+DTEND;VALUE=DATE:20320120
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2032@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20320216
+DTEND;VALUE=DATE:20320217
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2032@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20320531
+DTEND;VALUE=DATE:20320601
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2032@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20320619
+DTEND;VALUE=DATE:20320620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2032@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20320704
+DTEND;VALUE=DATE:20320705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2032@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20320906
+DTEND;VALUE=DATE:20320907
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2032@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20321011
+DTEND;VALUE=DATE:20321012
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2032@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20321111
+DTEND;VALUE=DATE:20321112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2032@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20321125
+DTEND;VALUE=DATE:20321126
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2032@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20321225
+DTEND;VALUE=DATE:20321226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2033@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20330101
+DTEND;VALUE=DATE:20330102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2033@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20330117
+DTEND;VALUE=DATE:20330118
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2033@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20330221
+DTEND;VALUE=DATE:20330222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2033@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20330530
+DTEND;VALUE=DATE:20330531
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2033@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20330619
+DTEND;VALUE=DATE:20330620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2033@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20330704
+DTEND;VALUE=DATE:20330705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2033@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20330905
+DTEND;VALUE=DATE:20330906
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2033@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20331010
+DTEND;VALUE=DATE:20331011
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2033@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20331111
+DTEND;VALUE=DATE:20331112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2033@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20331124
+DTEND;VALUE=DATE:20331125
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2033@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20331225
+DTEND;VALUE=DATE:20331226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2034@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20340101
+DTEND;VALUE=DATE:20340102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2034@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20340116
+DTEND;VALUE=DATE:20340117
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2034@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20340220
+DTEND;VALUE=DATE:20340221
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2034@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20340529
+DTEND;VALUE=DATE:20340530
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2034@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20340619
+DTEND;VALUE=DATE:20340620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2034@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20340704
+DTEND;VALUE=DATE:20340705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2034@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20340904
+DTEND;VALUE=DATE:20340905
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2034@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20341009
+DTEND;VALUE=DATE:20341010
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2034@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20341111
+DTEND;VALUE=DATE:20341112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2034@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20341123
+DTEND;VALUE=DATE:20341124
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2034@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20341225
+DTEND;VALUE=DATE:20341226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2035@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20350101
+DTEND;VALUE=DATE:20350102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2035@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20350115
+DTEND;VALUE=DATE:20350116
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2035@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20350219
+DTEND;VALUE=DATE:20350220
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2035@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20350528
+DTEND;VALUE=DATE:20350529
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2035@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20350619
+DTEND;VALUE=DATE:20350620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2035@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20350704
+DTEND;VALUE=DATE:20350705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2035@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20350903
+DTEND;VALUE=DATE:20350904
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2035@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20351008
+DTEND;VALUE=DATE:20351009
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2035@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20351111
+DTEND;VALUE=DATE:20351112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2035@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20351122
+DTEND;VALUE=DATE:20351123
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2035@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20351225
+DTEND;VALUE=DATE:20351226
+END:VEVENT
+
+BEGIN:VEVENT
+UID:newyears-2036@federal
+SUMMARY:New Year's Day
+DESCRIPTION:A federal public holiday marking the first day of the new year. Banks\, government offices\, and many businesses are closed.
+DTSTART;VALUE=DATE:20360101
+DTEND;VALUE=DATE:20360102
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mlkday-2036@federal
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:A federal holiday honoring the civil rights leader Dr. Martin Luther King Jr.\, celebrated on the third Monday of January. Federal offices and many businesses are closed.
+DTSTART;VALUE=DATE:20360121
+DTEND;VALUE=DATE:20360122
+END:VEVENT
+
+BEGIN:VEVENT
+UID:presidentsday-2036@federal
+SUMMARY:Presidents' Day
+DESCRIPTION:Observed on the third Monday of February\, this federal holiday originally celebrated George Washington's birthday and now broadly honors all U.S. presidents. Also called Washington's Birthday officially.
+DTSTART;VALUE=DATE:20360218
+DTEND;VALUE=DATE:20360219
+END:VEVENT
+
+BEGIN:VEVENT
+UID:memorialday-2036@federal
+SUMMARY:Memorial Day
+DESCRIPTION:A federal holiday observed on the last Monday of May honoring the men and women who died while serving in the U.S. military. Marks the unofficial start of summer.
+DTSTART;VALUE=DATE:20360526
+DTEND;VALUE=DATE:20360527
+END:VEVENT
+
+BEGIN:VEVENT
+UID:juneteenth-2036@federal
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
+DTSTART;VALUE=DATE:20360619
+DTEND;VALUE=DATE:20360620
+END:VEVENT
+
+BEGIN:VEVENT
+UID:independenceday-2036@federal
+SUMMARY:Independence Day
+DESCRIPTION:A federal holiday celebrating the adoption of the Declaration of Independence on July 4\, 1776. Observed with fireworks\, parades\, and patriotic festivities across the nation.
+DTSTART;VALUE=DATE:20360704
+DTEND;VALUE=DATE:20360705
+END:VEVENT
+
+BEGIN:VEVENT
+UID:laborday-2036@federal
+SUMMARY:Labor Day
+DESCRIPTION:A federal holiday observed on the first Monday of September honoring the American labor movement and contributions of workers. Marks the unofficial end of summer.
+DTSTART;VALUE=DATE:20360901
+DTEND;VALUE=DATE:20360902
+END:VEVENT
+
+BEGIN:VEVENT
+UID:columbusday-2036@federal
+SUMMARY:Columbus Day
+DESCRIPTION:A federal holiday observed on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DTSTART;VALUE=DATE:20361013
+DTEND;VALUE=DATE:20361014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:veteransday-2036@federal
+SUMMARY:Veterans Day
+DESCRIPTION:A federal holiday on November 11 honoring all U.S. military veterans\, both living and deceased. Originally called Armistice Day\, marking the end of World War I in 1918.
+DTSTART;VALUE=DATE:20361111
+DTEND;VALUE=DATE:20361112
+END:VEVENT
+
+BEGIN:VEVENT
+UID:thanksgiving-2036@federal
+SUMMARY:Thanksgiving Day
+DESCRIPTION:A federal holiday observed on the fourth Thursday of November giving thanks for the harvest and blessings of the past year. A traditional time for family gatherings\, feasting\, and reflection.
+DTSTART;VALUE=DATE:20361127
+DTEND;VALUE=DATE:20361128
+END:VEVENT
+
+BEGIN:VEVENT
+UID:christmas-2036@federal
+SUMMARY:Christmas Day
+DESCRIPTION:A federal holiday on December 25 celebrating the birth of Jesus Christ. Widely observed with gift-giving\, family gatherings\, and festive traditions across the nation.
+DTSTART;VALUE=DATE:20361225
+DTEND;VALUE=DATE:20361226
+END:VEVENT
+
+END:VCALENDAR

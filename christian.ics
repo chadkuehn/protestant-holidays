@@ -1,0 +1,888 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Chad Kuehn//Christian Curated Calendar//EN
+X-WR-CALNAME:Christian Calendar
+X-WR-TIMEZONE:America/Chicago
+
+BEGIN:VEVENT
+UID:firstlent-2026@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2026@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2026@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2026@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2026@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2026@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2026@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2026@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2026@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2026@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2027@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2027@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2027@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2027@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2027@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2027@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2027@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2027@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2027@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2027@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2028@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2028@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2028@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2028@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2028@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2028@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2028@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2028@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2028@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20281008
+DTEND;VALUE=DATE:20281009
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2028@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20281203
+DTEND;VALUE=DATE:20281204
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2029@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2029@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20290503
+DTEND;VALUE=DATE:20290504
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2029@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20290325
+DTEND;VALUE=DATE:20290326
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2029@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2029@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2029@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2029@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20290520
+DTEND;VALUE=DATE:20290521
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2029@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2029@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20291014
+DTEND;VALUE=DATE:20291015
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2029@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20291202
+DTEND;VALUE=DATE:20291203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2030@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20300306
+DTEND;VALUE=DATE:20300307
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2030@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20300502
+DTEND;VALUE=DATE:20300503
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2030@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20300414
+DTEND;VALUE=DATE:20300415
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2030@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2030@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2030@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300531
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2030@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20300609
+DTEND;VALUE=DATE:20300610
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2030@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2030@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20301013
+DTEND;VALUE=DATE:20301014
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2030@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20301201
+DTEND;VALUE=DATE:20301202
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2031@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20310226
+DTEND;VALUE=DATE:20310227
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2031@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20310501
+DTEND;VALUE=DATE:20310502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2031@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2031@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20310411
+DTEND;VALUE=DATE:20310412
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2031@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20310413
+DTEND;VALUE=DATE:20310414
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2031@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2031@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20310601
+DTEND;VALUE=DATE:20310602
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2031@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2031@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20311012
+DTEND;VALUE=DATE:20311013
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2031@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20311130
+DTEND;VALUE=DATE:20311201
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2032@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20320211
+DTEND;VALUE=DATE:20320212
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2032@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20320506
+DTEND;VALUE=DATE:20320507
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2032@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20320321
+DTEND;VALUE=DATE:20320322
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2032@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20320326
+DTEND;VALUE=DATE:20320327
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2032@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20320328
+DTEND;VALUE=DATE:20320329
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2032@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20320506
+DTEND;VALUE=DATE:20320507
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2032@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20320516
+DTEND;VALUE=DATE:20320517
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2032@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2032@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20321010
+DTEND;VALUE=DATE:20321011
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2032@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20321128
+DTEND;VALUE=DATE:20321129
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2033@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20330302
+DTEND;VALUE=DATE:20330303
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2033@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20330505
+DTEND;VALUE=DATE:20330506
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2033@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20330410
+DTEND;VALUE=DATE:20330411
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2033@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20330415
+DTEND;VALUE=DATE:20330416
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2033@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20330417
+DTEND;VALUE=DATE:20330418
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2033@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20330526
+DTEND;VALUE=DATE:20330527
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2033@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20330605
+DTEND;VALUE=DATE:20330606
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2033@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20331031
+DTEND;VALUE=DATE:20331101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2033@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20331009
+DTEND;VALUE=DATE:20331010
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2033@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20331204
+DTEND;VALUE=DATE:20331205
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2034@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20340222
+DTEND;VALUE=DATE:20340223
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2034@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20340504
+DTEND;VALUE=DATE:20340505
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2034@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20340402
+DTEND;VALUE=DATE:20340403
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2034@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20340407
+DTEND;VALUE=DATE:20340408
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2034@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20340409
+DTEND;VALUE=DATE:20340410
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2034@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20340518
+DTEND;VALUE=DATE:20340519
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2034@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20340528
+DTEND;VALUE=DATE:20340529
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2034@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20341031
+DTEND;VALUE=DATE:20341101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2034@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20341008
+DTEND;VALUE=DATE:20341009
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2034@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20341203
+DTEND;VALUE=DATE:20341204
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2035@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20350207
+DTEND;VALUE=DATE:20350208
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2035@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20350503
+DTEND;VALUE=DATE:20350504
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2035@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20350318
+DTEND;VALUE=DATE:20350319
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2035@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20350323
+DTEND;VALUE=DATE:20350324
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2035@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20350325
+DTEND;VALUE=DATE:20350326
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2035@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20350503
+DTEND;VALUE=DATE:20350504
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2035@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20350513
+DTEND;VALUE=DATE:20350514
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2035@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20351031
+DTEND;VALUE=DATE:20351101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2035@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20351014
+DTEND;VALUE=DATE:20351015
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2035@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20351202
+DTEND;VALUE=DATE:20351203
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstlent-2036@christian
+SUMMARY:First Day of Lent (Ash Wednesday)
+DESCRIPTION:The first day of Lent\, the 40-day season of fasting\, prayer\, and repentance leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words 'Remember that you are dust\, and to dust you shall return.'
+DTSTART;VALUE=DATE:20360227
+DTEND;VALUE=DATE:20360228
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nationaldayofprayer-2036@christian
+SUMMARY:National Day of Prayer
+DESCRIPTION:Observed on the first Thursday of May\, the National Day of Prayer calls people of faith across the United States to unite in prayer for the nation\, its leaders\, and its people. Established by Congress in 1952 and signed into law by President Truman.
+DTSTART;VALUE=DATE:20360501
+DTEND;VALUE=DATE:20360502
+END:VEVENT
+
+BEGIN:VEVENT
+UID:palmSunday-2036@christian
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday marks the beginning of Holy Week and commemorates Jesus Christ's triumphal entry into Jerusalem\, where crowds spread palm branches before him. It falls one week before Resurrection Sunday.
+DTSTART;VALUE=DATE:20360406
+DTEND;VALUE=DATE:20360407
+END:VEVENT
+
+BEGIN:VEVENT
+UID:goodfriday-2036@christian
+SUMMARY:Good Friday
+DESCRIPTION:Good Friday commemorates the crucifixion and death of Jesus Christ at Calvary. Observed with solemnity\, fasting\, and special services\, it falls two days before Resurrection Sunday and is one of the most sacred days in the Christian calendar.
+DTSTART;VALUE=DATE:20360411
+DTEND;VALUE=DATE:20360412
+END:VEVENT
+
+BEGIN:VEVENT
+UID:resurrectionSunday-2036@christian
+SUMMARY:Resurrection Sunday
+DESCRIPTION:Resurrection Sunday (commonly known as Easter) is the most important celebration in the Christian faith\, commemorating the bodily resurrection of Jesus Christ from the dead on the third day after his crucifixion. It is the foundation of Christian hope and the fulfillment of biblical prophecy.
+DTSTART;VALUE=DATE:20360413
+DTEND;VALUE=DATE:20360414
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ascensionday-2036@christian
+SUMMARY:Ascension Day
+DESCRIPTION:Ascension Day commemorates the ascension of Jesus Christ into heaven 40 days after his resurrection\, as recorded in Acts 1:9-11. Observed on the 39th day after Resurrection Sunday (the 40th day counting inclusively)\, it marks the end of Christ's post-resurrection appearances.
+DTSTART;VALUE=DATE:20360522
+DTEND;VALUE=DATE:20360523
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pentecost-2036@christian
+SUMMARY:Pentecost
+DESCRIPTION:Pentecost commemorates the descent of the Holy Spirit upon the apostles and followers of Jesus\, as described in Acts 2\, occurring 50 days after Resurrection Sunday. Often called the birthday of the Church\, it marks the beginning of the Christian mission to the world.
+DTSTART;VALUE=DATE:20360601
+DTEND;VALUE=DATE:20360602
+END:VEVENT
+
+BEGIN:VEVENT
+UID:reformationday-2036@christian
+SUMMARY:Reformation Day
+DESCRIPTION:October 31 commemorates Martin Luther's posting of his 95 Theses on the door of the Castle Church in Wittenberg\, Germany\, on October 31\, 1517 — an act widely seen as launching the Protestant Reformation. Observed especially in Lutheran\, Reformed\, and other Protestant traditions.
+DTSTART;VALUE=DATE:20361031
+DTEND;VALUE=DATE:20361101
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pastor-appreciation-2036@christian
+SUMMARY:Pastor Appreciation Day
+DESCRIPTION:Observed on the second Sunday of October\, Pastor Appreciation Day (also called Clergy Appreciation Day) is a time for congregations to honor and thank their pastors\, ministers\, and spiritual leaders for their service\, sacrifice\, and dedication.
+DTSTART;VALUE=DATE:20361012
+DTEND;VALUE=DATE:20361013
+END:VEVENT
+
+BEGIN:VEVENT
+UID:firstadvent-2036@christian
+SUMMARY:First Sunday of Advent
+DESCRIPTION:The First Sunday of Advent marks the beginning of the Advent season\, the four-week period of preparation and anticipation leading up to Christmas. Advent\, from the Latin adventus meaning 'coming\,' prepares believers to celebrate Christ's birth and await his return.
+DTSTART;VALUE=DATE:20361130
+DTEND;VALUE=DATE:20361201
+END:VEVENT
+
+END:VCALENDAR
