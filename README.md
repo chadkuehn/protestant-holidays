@@ -76,7 +76,7 @@ All U.S. federally observed public holidays. The following events are included f
 | Event                          | Description                                                                                             |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------- |
 | **Christmas Day**              | December 25 - celebration of Christ's birth. The secular view focuses on Santa Claus                    |
-| **Columbus Day**               | Second Monday of October — celebrates the anniversary of Christopher Columbus's arrival in the Americas |
+| **Columbus Day**               | Second Monday of October — celebrates the anniversary of Christopher Columbus' arrival in the Americas  |
 | **Independence Day**           | July 4 — celebrates the adoption of the Declaration of Independence (1776)                              |
 | **Juneteenth**                 | June 19 — commemorates the emancipation of enslaved African Americans                                   |
 | **Labor Day**                  | First Monday of September — honors the American labor movement                                          |
