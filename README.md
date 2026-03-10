@@ -25,38 +25,6 @@ Key Protestant liturgical and observance dates. The following events are include
 
 ---
 
-### catholic.ics
-
-Key Catholic feast days and observances. The following events are included for each year in the range:
-
-| Event               | Description                                                                                |
-| ------------------- | ------------------------------------------------------------------------------------------ |
-| **All Saints' Day** | Holy day of obligation honoring all the saints who have attained heaven; November 1        |
-| **All Souls' Day**  | Day of prayer and remembrance for the faithful departed; November 2                        |
-| **Ash Wednesday**   | Marks the beginning of Lent; Catholics receive ashes as a sign of mortality and repentance |
-
-3 events × 11 years = **33 total events**
-
----
-
-### jewish.ics
-
-Key Jewish feasts and holy days. The following events are included for each year in the range:
-
-| Event                                    | Description                                                                                           |
-| ---------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Hanukkah (Feast of Dedication)**       | Eight-day Festival of Lights celebrating the rededication of the Temple (~165 BC); 25 Kislev          |
-| **Passover (Feast of Unleavened Bread)** | Commemorates the Exodus from Egypt; begins 15 Nisan with the Passover Seder                           |
-| **Purim (Feast of Lots)**                | Celebrates the deliverance of the Jewish people as recorded in the Book of Esther; 14 Adar            |
-| **Rosh Hashanah (Feast of Trumpets)**    | The Jewish New Year; begins the Ten Days of Awe leading to Yom Kippur; 1 Tishrei                      |
-| **Shavuot (Feast of Weeks)**             | Celebrates the giving of the Torah at Sinai, 50 days after the start of Passover; 6 Sivan             |
-| **Sukkot (Feast of Tabernacles)**        | Seven-day harvest festival; Jews dwell in a sukkah commemorating the wilderness wandering; 15 Tishrei |
-| **Yom Kippur (Day of Atonement)**        | The holiest day of the Jewish year — a 25-hour fast of prayer and repentance; 10 Tishrei              |
-
-7 events × 11 years = **77 total events**
-
----
-
 ### civic-engagement.ics
 
 Recurring U.S. civic dates plus periodic milestone events. The following events are included:
@@ -145,6 +113,39 @@ Honorary, military, and national remembrance dates. The following events are inc
 12 events × 11 years = **132 total events**
 
 ---
+
+### jewish.ics
+
+Key Jewish feasts and holy days. The following events are included for each year in the range:
+
+| Event                                    | Description                                                                                           |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Hanukkah (Feast of Dedication)**       | Eight-day Festival of Lights celebrating the rededication of the Temple (~165 BC); 25 Kislev          |
+| **Passover (Feast of Unleavened Bread)** | Commemorates the Exodus from Egypt; begins 15 Nisan with the Passover Seder                           |
+| **Purim (Feast of Lots)**                | Celebrates the deliverance of the Jewish people as recorded in the Book of Esther; 14 Adar            |
+| **Rosh Hashanah (Feast of Trumpets)**    | The Jewish New Year; begins the Ten Days of Awe leading to Yom Kippur; 1 Tishrei                      |
+| **Shavuot (Feast of Weeks)**             | Celebrates the giving of the Torah at Sinai, 50 days after the start of Passover; 6 Sivan             |
+| **Sukkot (Feast of Tabernacles)**        | Seven-day harvest festival; Jews dwell in a sukkah commemorating the wilderness wandering; 15 Tishrei |
+| **Yom Kippur (Day of Atonement)**        | The holiest day of the Jewish year — a 25-hour fast of prayer and repentance; 10 Tishrei              |
+
+7 events × 11 years = **77 total events**
+
+---
+
+### catholic.ics
+
+Key Catholic feast days and observances. The following events are included for each year in the range:
+
+| Event               | Description                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| **All Saints' Day** | Holy day of obligation honoring all the saints who have attained heaven; November 1        |
+| **All Souls' Day**  | Day of prayer and remembrance for the faithful departed; November 2                        |
+| **Ash Wednesday**   | Marks the beginning of Lent; Catholics receive ashes as a sign of mortality and repentance |
+
+3 events × 11 years = **33 total events**
+
+---
+
 
 ## Coverage
 
