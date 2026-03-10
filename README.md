@@ -10,7 +10,6 @@ Key Protestant liturgical and observance dates. The following events are include
 
 | Event                       | Description                                                                                                                             |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **First Day of Lent**       | The 40-day season of fasting, prayer, and repentance leading up to Resurrection Sunday                                                  |
 | **National Day of Prayer**  | First Thursday of May — calls people of faith to unite in prayer for the nation                                                         |
 | **Palm Sunday**             | Commemorates Jesus' triumphal entry into Jerusalem; one week before Resurrection Sunday                                                 |
 | **Good Friday**             | Commemorates the crucifixion and death of Jesus Christ at Calvary                                                                       |
@@ -19,6 +18,7 @@ Key Protestant liturgical and observance dates. The following events are include
 | **Pentecost**               | Commemorates the descent of the Holy Spirit upon the apostles, 50 days after Resurrection Sunday                                        |
 | **Reformation Day**         | October 31 — commemorates Martin Luther's posting of his 95 Theses in 1517                                                              |
 | **Pastor Appreciation Day** | Second Sunday of October — honors pastors and spiritual leaders                                                                         |
+| **First Day of Lent**       | The 40-day season of self-reflection: fasting, prayer, and repentance leading up to Resurrection Sunday                                 |
 | **First Sunday of Advent**  | Marks the beginning of the four-week season of preparation leading up to Christmas                                                      |
 
 10 events × 11 years = **110 total events**
