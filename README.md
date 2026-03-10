@@ -8,18 +8,18 @@ A collection of seven `.ics` calendar files covering religious, federal, cultura
 
 Key Protestant liturgical and observance dates. The following events are included for each year in the range:
 
-| Event                                 | Description                                                                                                                             |
-| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **First Day of Lent**                 | The 40-day season of fasting, prayer, and repentance leading up to Resurrection Sunday                                                  |
-| **National Day of Prayer**            | First Thursday of May — calls people of faith to unite in prayer for the nation                                                         |
-| **Palm Sunday**                       | Commemorates Jesus' triumphal entry into Jerusalem; one week before Resurrection Sunday                                                 |
-| **Good Friday**                       | Commemorates the crucifixion and death of Jesus Christ at Calvary                                                                       |
-| **Resurrection Sunday**               | The most important celebration in the Christian faith, commemorating the bodily resurrection of Jesus Christ (commonly known as Easter) |
-| **Ascension Day**                     | Commemorates Jesus' ascension into heaven 40 days after his resurrection                                                                |
-| **Pentecost**                         | Commemorates the descent of the Holy Spirit upon the apostles, 50 days after Resurrection Sunday                                        |
-| **Reformation Day**                   | October 31 — commemorates Martin Luther's posting of his 95 Theses in 1517                                                              |
-| **Pastor Appreciation Day**           | Second Sunday of October — honors pastors and spiritual leaders                                                                         |
-| **First Sunday of Advent**            | Marks the beginning of the four-week season of preparation leading up to Christmas                                                      |
+| Event                       | Description                                                                                                                             |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **First Day of Lent**       | The 40-day season of fasting, prayer, and repentance leading up to Resurrection Sunday                                                  |
+| **National Day of Prayer**  | First Thursday of May — calls people of faith to unite in prayer for the nation                                                         |
+| **Palm Sunday**             | Commemorates Jesus' triumphal entry into Jerusalem; one week before Resurrection Sunday                                                 |
+| **Good Friday**             | Commemorates the crucifixion and death of Jesus Christ at Calvary                                                                       |
+| **Resurrection Sunday**     | The most important celebration in the Christian faith, commemorating the bodily resurrection of Jesus Christ (commonly known as Easter) |
+| **Ascension Day**           | Commemorates Jesus' ascension into heaven 40 days after his resurrection                                                                |
+| **Pentecost**               | Commemorates the descent of the Holy Spirit upon the apostles, 50 days after Resurrection Sunday                                        |
+| **Reformation Day**         | October 31 — commemorates Martin Luther's posting of his 95 Theses in 1517                                                              |
+| **Pastor Appreciation Day** | Second Sunday of October — honors pastors and spiritual leaders                                                                         |
+| **First Sunday of Advent**  | Marks the beginning of the four-week season of preparation leading up to Christmas                                                      |
 
 10 events × 11 years = **110 total events**
 
@@ -29,11 +29,11 @@ Key Protestant liturgical and observance dates. The following events are include
 
 Key Catholic feast days and observances. The following events are included for each year in the range:
 
-| Event                        | Description                                                                                |
-| ---------------------------- | ------------------------------------------------------------------------------------------ |
-| **Ash Wednesday**            | Marks the beginning of Lent; Catholics receive ashes as a sign of mortality and repentance |
-| **All Saints' Day**          | Holy day of obligation honoring all the saints who have attained heaven; November 1        |
-| **All Souls' Day**           | Day of prayer and remembrance for the faithful departed; November 2                        |
+| Event               | Description                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| **Ash Wednesday**   | Marks the beginning of Lent; Catholics receive ashes as a sign of mortality and repentance |
+| **All Saints' Day** | Holy day of obligation honoring all the saints who have attained heaven; November 1        |
+| **All Souls' Day**  | Day of prayer and remembrance for the faithful departed; November 2                        |
 
 3 events × 11 years = **33 total events**
 
@@ -43,15 +43,15 @@ Key Catholic feast days and observances. The following events are included for e
 
 Key Jewish feasts and holy days. The 🌇 emoji on each event title is a reminder that the holiday begins at sundown on the listed date. The following events are included for each year in the range:
 
-| Event                                       | Description                                                                                           |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Purim (Feast of Lots)**                 | Celebrates the deliverance of the Jewish people as recorded in the Book of Esther; 14 Adar            |
-| **Passover (Feast of Unleavened Bread)**  | Commemorates the Exodus from Egypt; begins 15 Nisan with the Passover Seder                           |
-| **Shavuot (Feast of Weeks)**              | Celebrates the giving of the Torah at Sinai, 50 days after the start of Passover; 6 Sivan             |
-| **Rosh Hashanah (Feast of Trumpets)**     | The Jewish New Year; begins the Ten Days of Awe leading to Yom Kippur; 1 Tishrei                      |
-| **Yom Kippur (Day of Atonement)**         | The holiest day of the Jewish year — a 25-hour fast of prayer and repentance; 10 Tishrei              |
-| **Sukkot (Feast of Tabernacles)**         | Seven-day harvest festival; Jews dwell in a sukkah commemorating the wilderness wandering; 15 Tishrei |
-| **Hanukkah (Feast of Dedication)**        | Eight-day Festival of Lights celebrating the rededication of the Temple (~165 BC); 25 Kislev          |
+| Event                                    | Description                                                                                           |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Purim (Feast of Lots)**                | Celebrates the deliverance of the Jewish people as recorded in the Book of Esther; 14 Adar            |
+| **Passover (Feast of Unleavened Bread)** | Commemorates the Exodus from Egypt; begins 15 Nisan with the Passover Seder                           |
+| **Shavuot (Feast of Weeks)**             | Celebrates the giving of the Torah at Sinai, 50 days after the start of Passover; 6 Sivan             |
+| **Rosh Hashanah (Feast of Trumpets)**    | The Jewish New Year; begins the Ten Days of Awe leading to Yom Kippur; 1 Tishrei                      |
+| **Yom Kippur (Day of Atonement)**        | The holiest day of the Jewish year — a 25-hour fast of prayer and repentance; 10 Tishrei              |
+| **Sukkot (Feast of Tabernacles)**        | Seven-day harvest festival; Jews dwell in a sukkah commemorating the wilderness wandering; 15 Tishrei |
+| **Hanukkah (Feast of Dedication)**       | Eight-day Festival of Lights celebrating the rededication of the Temple (~165 BC); 25 Kislev          |
 
 7 events × 11 years = **77 total events**
 
@@ -78,24 +78,24 @@ Recurring U.S. civic dates plus periodic milestone events. The following events 
 
 Widely observed cultural, folk, and secular days. The following events are included for each year in the range:
 
-| Event                        | Description                                                                                  |
-| ---------------------------- | -------------------------------------------------------------------------------------------- |
-| **Carnival Season Begins**   | January 6 (Epiphany) — festive season of parades and celebrations running through Mardi Gras |
-| **Chinese New Year**         | First day of the Chinese lunisolar calendar; a 15-day celebration of the Lunar New Year      |
-| **Groundhog Day**            | February 2 — American folk tradition centered on Punxsutawney Phil's weather prediction      |
-| **Valentine's Day**          | February 14 — cultural holiday honoring love and affection                                   |
-| **Mardi Gras (Fat Tuesday)** | Last day of Carnival season, falling 47 days before Resurrection Sunday (Easter)             |
-| **St. Patrick's Day**        | March 17 — cultural celebration of Irish heritage                                            |
-| **April Fool's Day**         | April 1 — a lighthearted day of pranks and jokes                                             |
-| **Earth Day**                | April 22 — international event dedicated to environmental awareness                          |
-| **Arbor Day**                | Last Friday of April — encourages the planting and care of trees                             |
-| **May Day**                  | May 1 — spring festival and International Workers' Day                                       |
-| **Cinco de Mayo**            | May 5 — commemorates the Mexican Army's victory at the Battle of Puebla (1862)               |
-| **Mother's Day**             | Second Sunday of May — honors mothers and maternal figures                                   |
-| **Father's Day**             | Third Sunday of June — honors fathers and paternal figures                                   |
-| **Halloween**                | October 31 — an evening of costumes, trick-or-treating, and autumn festivities               |
-| **Black Friday**             | Day after Thanksgiving — unofficial start of the holiday shopping season                     |
-| **New Year's Eve**           | December 31 — celebrations marking the end of the calendar year                              |
+| Event                        | Description                                                                             |
+| ---------------------------- | --------------------------------------------------------------------------------------- |
+| **Chinese New Year**         | First day of the Chinese lunisolar calendar; a 15-day celebration of the Lunar New Year |
+| **Groundhog Day**            | February 2 — American folk tradition centered on Punxsutawney Phil's weather prediction |
+| **Valentine's Day**          | February 14 — cultural holiday honoring love and affection                              |
+| **Mardi Gras (Fat Tuesday)** | Last day of Carnival season, falling 47 days before Resurrection Sunday (Easter)        |
+| **St. Patrick's Day**        | March 17 — cultural celebration of Irish heritage                                       |
+| **April Fool's Day**         | April 1 — a lighthearted day of pranks and jokes                                        |
+| **Earth Day**                | April 22 — international event dedicated to environmental awareness                     |
+| **Arbor Day**                | Last Friday of April — encourages the planting and care of trees                        |
+| **May Day**                  | May 1 — spring festival and International Workers' Day                                  |
+| **Cinco de Mayo**            | May 5 — commemorates the Mexican Army's victory at the Battle of Puebla (1862)          |
+| **Mother's Day**             | Second Sunday of May — honors mothers and maternal figures                              |
+| **Father's Day**             | Third Sunday of June — honors fathers and paternal figures                              |
+| **Halloween**                | October 31 — an evening of costumes, trick-or-treating, and autumn festivities          |
+| **Carnival Season Begins**   | January 6 (Epiphany) — festive season of parades and celebrations around the globe      |
+| **Black Friday**             | Day after Thanksgiving — unofficial start of the holiday shopping season                |
+| **New Year's Eve**           | December 31 — celebrations marking the end of the calendar year                         |
 
 16 events × 11 years = **176 total events**
 
