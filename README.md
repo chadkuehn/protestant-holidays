@@ -80,7 +80,6 @@ Widely observed cultural, folk, and secular days. The following events are inclu
 
 | Event                        | Description                                                                             |
 | ---------------------------- | --------------------------------------------------------------------------------------- |
-| **Chinese New Year**         | First day of the Chinese lunisolar calendar; a 15-day celebration of the Lunar New Year |
 | **Groundhog Day**            | February 2 — American folk tradition centered on Punxsutawney Phil's weather prediction |
 | **Valentine's Day**          | February 14 — cultural holiday honoring love and affection                              |
 | **St. Patrick's Day**        | March 17 — cultural celebration of Irish heritage                                       |
@@ -92,6 +91,7 @@ Widely observed cultural, folk, and secular days. The following events are inclu
 | **Mother's Day**             | Second Sunday of May — honors mothers and maternal figures                              |
 | **Father's Day**             | Third Sunday of June — honors fathers and paternal figures                              |
 | **Halloween**                | October 31 — an evening of costumes, trick-or-treating, and autumn festivities          |
+| **Chinese New Year**         | First day of the Chinese lunisolar calendar; a 15-day celebration of the Lunar New Year |
 | **Carnival**                 | January 6 — annual festival held before Lent known for vibrant celebrations with costumes & parades worldwide (i.e., Rio de Janeiro, Venice, Trinidad, New Orleans, etc.) |
 | **Mardi Gras (Fat Tuesday)** | New Orleans celebration falling 47 days before Resurrection Sunday (Easter)             |
 | **Black Friday**             | Day after Thanksgiving — unofficial start of the holiday shopping season                |
