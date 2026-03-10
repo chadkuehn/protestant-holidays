@@ -83,7 +83,6 @@ Widely observed cultural, folk, and secular days. The following events are inclu
 | **Chinese New Year**         | First day of the Chinese lunisolar calendar; a 15-day celebration of the Lunar New Year |
 | **Groundhog Day**            | February 2 — American folk tradition centered on Punxsutawney Phil's weather prediction |
 | **Valentine's Day**          | February 14 — cultural holiday honoring love and affection                              |
-| **Mardi Gras (Fat Tuesday)** | Last day of Carnival season, falling 47 days before Resurrection Sunday (Easter)        |
 | **St. Patrick's Day**        | March 17 — cultural celebration of Irish heritage                                       |
 | **April Fool's Day**         | April 1 — a lighthearted day of pranks and jokes                                        |
 | **Earth Day**                | April 22 — international event dedicated to environmental awareness                     |
@@ -93,7 +92,8 @@ Widely observed cultural, folk, and secular days. The following events are inclu
 | **Mother's Day**             | Second Sunday of May — honors mothers and maternal figures                              |
 | **Father's Day**             | Third Sunday of June — honors fathers and paternal figures                              |
 | **Halloween**                | October 31 — an evening of costumes, trick-or-treating, and autumn festivities          |
-| **Carnival Season Begins**   | January 6 (Epiphany) — festive season of parades and celebrations around the globe      |
+| **Carnival**                 | January 6 — Vibrant celebrations marked with costumes & parades (i.e., Rio de Janeiro)  |
+| **Mardi Gras (Fat Tuesday)** | New Orleans celebratoin falling 47 days before Resurrection Sunday (Easter)             |
 | **Black Friday**             | Day after Thanksgiving — unofficial start of the holiday shopping season                |
 | **New Year's Eve**           | December 31 — celebrations marking the end of the calendar year                         |
 
