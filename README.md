@@ -32,13 +32,10 @@ Key Catholic feast days and observances. The following events are included for e
 | Event                        | Description                                                                                |
 | ---------------------------- | ------------------------------------------------------------------------------------------ |
 | **Ash Wednesday**            | Marks the beginning of Lent; Catholics receive ashes as a sign of mortality and repentance |
-| **Mardi Gras (Fat Tuesday)** | The final day of Carnival — traditionally a day of feasting before the Lenten fast begins  |
-| **Valentine's Day**          | Feast day of Saint Valentine, a Roman martyr; February 14                                  |
-| **St. Patrick's Day**        | Feast day of Saint Patrick, patron saint of Ireland; March 17                              |
 | **All Saints' Day**          | Holy day of obligation honoring all the saints who have attained heaven; November 1        |
 | **All Souls' Day**           | Day of prayer and remembrance for the faithful departed; November 2                        |
 
-6 events × 11 years = **66 total events**
+3 events × 11 years = **33 total events**
 
 ---
 
